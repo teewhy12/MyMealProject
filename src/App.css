@@ -1,0 +1,11 @@
+.about-section{
+    height: 70vh;
+}
+
+.banner{
+    background-image: url(./assets/website_meal.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 60vh;
+}
